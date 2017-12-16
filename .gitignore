@@ -1,0 +1,11 @@
+
+.vscode/
+
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+dist/
+*.egg-info/
