@@ -17,7 +17,7 @@ In a notebook cell:
 ```Python
 from notebook_wide_screen import WideScreen
 # example
-WideScreen(width='95%', verbose=False).add_js()
+WideScreen(width='95%', verbose=False).add_css()
 ```
 
 This will inject CSS (in the output cell) with immediate effect.  
