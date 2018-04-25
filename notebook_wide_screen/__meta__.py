@@ -1,8 +1,7 @@
 
 __name__ = 'notebook_wide_screen'
-__packages__ = [__name__]
 
-__version__ = '0.1'
+__version__ = '0.1.1'
 
 __description__ = 'Enable user to display notebook in very wide screens - if notebook is trusted'
 __author__ = 'oscar6echo'
